@@ -1,3 +1,3 @@
 # OpenCV-With-Python
 
-This repository contains my daily practice programs
+This repository contains my daily practice programs of OPENCV
